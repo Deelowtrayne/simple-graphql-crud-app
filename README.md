@@ -1,3 +1,3 @@
-# simple-grapql-crud-app
+# simple-grapql-app
 
-A simple graphQL crud webapp with express
+A simple graphQL CRUD webapp with express
